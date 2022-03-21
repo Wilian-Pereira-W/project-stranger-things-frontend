@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <StrangerThings />
-      <h1>oi</h1>
     </div>
   );
 }
